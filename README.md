@@ -2,7 +2,7 @@
 
 ![Screenshot](./docs/screenshot.png)
 
-Une application Windows (WinForms, .NET Framework 4.5) qui automatise la sauvegarde et le remplacement contrôlé de composants de Safe Exam Browser (SEB), avec un mode hors‑ligne et une interface « hacker style » (vert/néon sur fond noir).
+Une application Windows (WinForms, .NET Framework 4.5) qui automatise la sauvegarde et le remplacement contrôlé de composants de Safe Exam Browser (SEB).
 
 ## Avertissement important
 
@@ -23,7 +23,6 @@ Ce correctif a été développé dans le cadre d’un projet de recherche visant
 
 ## Aperçu
 
-- UI « hacker » vert/néon sur fond noir
 - Sauvegarde optionnelle (backup) des binaires SEB
 - Remplacement contrôlé de 6 composants SEB (x86/x64)
 - Installation optionnelle d’un certificat (online/offline)
