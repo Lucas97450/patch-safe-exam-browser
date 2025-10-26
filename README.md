@@ -64,13 +64,7 @@ Ce correctif a été développé dans le cadre d’un projet de recherche visant
 4. Optionnel : installer le certificat dans la ruche offline.
 5. Cliquez sur « PATCH ».
 
-## Démo (vidéo)
-
-Vous pouvez placer une vidéo de démonstration ici et elle sera référencée automatiquement :
-
-- Chemin attendu : `./docs/demo.mp4`
-
-Aperçu (si GitHub le permet) :
+## Démo (vidéo):
 
 <details>
 <summary>Voir la démo (mp4)</summary>
