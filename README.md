@@ -15,6 +15,7 @@ Ce correctif a été développé dans le cadre d’un projet de recherche visant
 - Prérequis
 - Installation (Release)
 - Utilisation (mode normal et hors‑ligne)
+- Démo (vidéo)
 - Restauration et désinstallation
 - Compilation (Build) locale
 - Dépannage
@@ -62,6 +63,26 @@ Ce correctif a été développé dans le cadre d’un projet de recherche visant
 3. Activez « Auto‑Detect » (ou forcez x86/x64 si nécessaire).
 4. Optionnel : installer le certificat dans la ruche offline.
 5. Cliquez sur « PATCH ».
+
+## Démo (vidéo)
+
+Vous pouvez placer une vidéo de démonstration ici et elle sera référencée automatiquement :
+
+- Chemin attendu : `./docs/demo.mp4`
+
+Aperçu (si GitHub le permet) :
+
+<details>
+<summary>Voir la démo (mp4)</summary>
+
+Si votre navigateur le supporte, la vidéo sera lisible localement :
+
+```html
+<video src="./docs/demo.mp4" controls width="720"></video>
+```
+
+Sinon, uploadez la vidéo en « Release asset » et remplacez ce lien par l’URL publique.
+</details>
 
 ## Restauration / Désinstallation
 
