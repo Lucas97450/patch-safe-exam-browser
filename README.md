@@ -115,5 +115,3 @@ patch-seb-lucas/
 ---
 
 Made by [Lucas97450](https://github.com/Lucas97450)
-
-> Astuce : placez votre capture d’écran sous `./docs/screenshot.png` pour que l’image en haut du README s’affiche correctement.
